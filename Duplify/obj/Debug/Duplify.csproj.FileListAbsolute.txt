@@ -1,0 +1,60 @@
+C:\Users\Andrey\source\repos\Duplify\Duplify\bin\Debug\Duplify.exe.config
+C:\Users\Andrey\source\repos\Duplify\Duplify\bin\Debug\Duplify.exe
+C:\Users\Andrey\source\repos\Duplify\Duplify\bin\Debug\Duplify.pdb
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\App.g.cs
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify_MarkupCompile.cache
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify_MarkupCompile.lref
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\MainWindow.baml
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.g.resources
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.exe
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Duplify.pdb
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\App.baml
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Core.baml
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Brushes.baml
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\Core.g.cs
+C:\Users\Andrey\source\repos\Duplify\Duplify\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\bin\Debug\Duplify.exe.config
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\bin\Debug\Duplify.exe
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\bin\Debug\Duplify.pdb
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Core.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Brushes.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Core.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\MainWindow.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\App.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify_MarkupCompile.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify_MarkupCompile.lref
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\App.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\MainWindow.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.g.resources
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.Properties.Resources.resources
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.exe
+D:\Andrey\Polytech\!My Archive Polytech\4 Семестр\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.pdb
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\bin\Debug\Duplify.exe.config
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\bin\Debug\Duplify.exe
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\bin\Debug\Duplify.pdb
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Core.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Brushes.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Core.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\MainWindow.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\App.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify_MarkupCompile.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify_MarkupCompile.lref
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\App.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\MainWindow.baml
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.g.resources
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.Properties.Resources.resources
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.exe
+D:\Andrey\Polytech\!My Archive Polytech\4 sem\Summer Practics (4 sem)\Duplify\Duplify\obj\Debug\Duplify.pdb
